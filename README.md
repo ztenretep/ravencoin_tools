@@ -18,19 +18,19 @@
 
 <code>wget https://github.com/RavenProject/Ravencoin/releases/download/v4.3.2.1/raven-4.3.2.1-x86_64-linux-gnu.zip</code>
 
-<code>unzip raven-4.3.2.1-x86_64-linux-gnu.zip/code>
+<code>unzip raven-4.3.2.1-x86_64-linux-gnu.zip</code>
   
 <code>cd linux<code>
   
-<code>gunzip raven-4.3.2.1-x86_64-linux-gnu.tar.gz<code>
+<code>gunzip raven-4.3.2.1-x86_64-linux-gnu.tar.gz</code>
   
-<code>tar xf raven-4.3.2.1-x86_64-linux-gnu.tar<code>
+<code>tar xf raven-4.3.2.1-x86_64-linux-gnu.tar</code>
   
-<code>cd raven-4.3.2.1<code> 
+<code>cd raven-4.3.2.1</code> 
   
 <p align="justify">Now we are ready to go.</p>
   
-<code>./ravend -daemon -maxconnections=10000<code> 
+<code>./ravend -daemon -maxconnections=10000</code> 
 
 
 
