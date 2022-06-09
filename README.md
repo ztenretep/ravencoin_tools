@@ -20,7 +20,7 @@
 
 <code>unzip raven-4.3.2.1-x86_64-linux-gnu.zip</code>
   
-<code>cd linux<code>
+<code>cd linux</code>
   
 <code>gunzip raven-4.3.2.1-x86_64-linux-gnu.tar.gz</code>
   
@@ -31,8 +31,6 @@
 <p align="justify">Now we are ready to go.</p>
   
 <code>./ravend -daemon -maxconnections=10000</code> 
-
-
 
 
 
