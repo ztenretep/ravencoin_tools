@@ -26,7 +26,7 @@
   
 <code>tar xf raven-4.3.2.1-x86_64-linux-gnu.tar</code>
   
-<code>cd raven-4.3.2.1</code> 
+<code>cd raven-4.3.2.1/bin</code> 
   
 <p align="justify">Now we are ready to go.</p>
   
