@@ -4,7 +4,7 @@
 
 # Programming requirements
 
-<p align="justify">Following PyPi library is used for the Python scripts.</p>
+<p align="justify">Following PyPi library is used for the Python scripts:</p>
 
 <code>python-ravencoinlib 0.2.2</code>
 
@@ -35,3 +35,7 @@
 <p align="justify">The QT Ravencoin wallet is reachable by:</p>
 
 <code>./raven-qt -server</code> 
+
+<h2>Donation</h2>
+
+<div class="snippet-clipboard-content position-relative overflow-auto" data-snippet-clipboard-copy-content="RNi9cTpobtVErv8H9uijhcafcT4VgEaDUL"><pre><code>RNi9cTpobtVErv8H9uijhcafcT4VgEaDUL</code></pre></div>
