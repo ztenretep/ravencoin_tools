@@ -32,6 +32,6 @@
   
 <code>./ravend -daemon -maxconnections=10000</code> 
 
-<p align="justify">The wallet is reachable by:</p>
+<p align="justify">The QT Ravencoin wallet is reachable by:</p>
 
-<code>./raven-qt</code> 
+<code>./raven-qt -server</code> 
