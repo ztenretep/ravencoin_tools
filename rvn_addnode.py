@@ -1,7 +1,9 @@
 #!/usr/bin/python3
-'''Get networkinfo from Ravencoin node.
+'''Add Ravencoin node.
 
-Prerequisite: Ravencoin node must be running.
+Prerequisites:
+    1. python-ravencoinlib 0.2.2 must be installed.
+    2. Ravencoin node must be running.
 '''
 # pylint: disable=invalid-name
 # pylint: disable=broad-except
