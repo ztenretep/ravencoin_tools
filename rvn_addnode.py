@@ -31,10 +31,10 @@ ARG = "add"
 
 # Try to add a node.
 try:
-    response = rvn.call(SERVICE, NODE, ARG)
-    response_str = json.dumps(response, indent=4)
-    print(response_str)
+    # Add node.
+    rvn.call(SERVICE, NODE, ARG)
 except Exception as err:
+    # Evaluate error.
     try:
         err_json = ast.literal_eval(str(err))
         err_str = json.dumps(err_json, indent=4)
