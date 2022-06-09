@@ -34,7 +34,7 @@
 
 # References
 
-https://ravencoin.org
+https://ravencoin.org/
 
 https://www.ravennodes.com/
 
