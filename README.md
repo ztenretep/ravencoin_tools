@@ -30,6 +30,10 @@
 
 <p align="justify">The QT Ravencoin wallet is reachable by:</p>
 
+# References
+
+https://ravencoin.org
+
 <code>./raven-qt -server</code> 
 
 <h2>Donation</h2>
