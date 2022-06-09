@@ -5,13 +5,13 @@ https://rvn.cryptoscope.io/api<p><a href="https://rvn.cryptoscope.io/api"></a></
 
 <p align="justify">To access the Ravencoin Blockchain directly, a node must be installed and connected to the Ravencoin Mainnet.</p>
 
-# Programming requirements
+# Programming Requirements
 
 <p align="justify">Following PyPi library is used for the Python scripts:</p>
 
 <code>python-ravencoinlib 0.2.2</code>
 
-# Set up node
+# Set Up Ravencoin Node
 
 <p align="justify">Select a directory for the operation of the node. Open this directory in a terminal window.</p>
 
