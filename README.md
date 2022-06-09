@@ -1,6 +1,6 @@
 # Introduction
 
-<p align="justify">To access the Ravencoin Blockchain directly, a node must be installed and connected to the network.</p>
+<p align="justify">To access the Ravencoin Blockchain directly, a node must be installed and connected to the network. Then follow these steps.</p>
 
 <p align="justify">You can use file 'raven-4.3.2.1-x86_64-linux-gnu.zip' for a basic installation. The node is started via './ravend -daemon -maxconnections=10000'.</p> 
 
@@ -32,5 +32,6 @@
   
 <code>./ravend -daemon -maxconnections=10000</code> 
 
+<p align="justify">The wallet is reachable by:</p>
 
-
+<code>./raven-qt</code> 
