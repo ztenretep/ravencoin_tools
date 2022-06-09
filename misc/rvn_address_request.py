@@ -1,5 +1,6 @@
 !/usr/bin/python3
-'''Get RVN address info.'''
+'''Get RVN address info.
+'''
 
 # Import the Python modules.
 import requests
