@@ -44,8 +44,8 @@ While I am currently testing the RPC interface, I am in the process of installin
 
 <p align="justify">Finally, set symbolic links:</p>
 
-<code>ln -s ~/rvn_node/linux/raven-4.3.2.1/bin/ravend /usr/bin/ravend <br>
-ln -s ~/rvn_node/linux/raven-4.3.2.1/bin/raven-qt /usr/bin/raven-qt</code>
+<pre><code>ln -s ~/rvn_node/linux/raven-4.3.2.1/bin/ravend /usr/bin/ravend
+ln -s ~/rvn_node/linux/raven-4.3.2.1/bin/raven-qt /usr/bin/raven-qt</code></pre>
 
 <p align="justify">Run raven-qt detached from terminal window:</p>
 
