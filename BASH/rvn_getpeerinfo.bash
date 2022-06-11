@@ -5,8 +5,8 @@
 # rpc-user and rpc-password have to be set in the raven.conf.
 
 # Set user and password.
-#USER="<rpc-user>"
-#PASSWORD="<rpc-password>"
+USER="<rpc-user>"
+PASSWORD="<rpc-password>"
 
 # Set service url.
 URL="http://127.0.0.1:8766/"
