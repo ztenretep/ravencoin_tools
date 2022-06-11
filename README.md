@@ -32,14 +32,16 @@
 
 <code>./raven-qt -server</code> 
 
-Finally, set symbolic links:
-
 <p align="justify">Finally, set symbolic links:</p>
 
-<code>
+<code><pre>
 ln -s ~/rvn_node/linux/raven-4.3.2.1/bin/ravend /usr/bin/ravend
 ln -s ~/rvn_node/linux/raven-4.3.2.1/bin/raven-qt /usr/bin/raven-qt
-</code>  
+</pre></code> 
+
+<p align="justify">Run raven-qt detached from terminal window:</p>
+
+<code>nohup ~/rvn_node/linux/raven-4.3.2.1/bin/raven-qt & > /dev/null 2>&1</code>
 
 <p align="justify">Up to this, you do not have to take care about the content of <code>raven.conf</>.</p>
 
