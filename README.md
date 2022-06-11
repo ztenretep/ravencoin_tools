@@ -1,3 +1,13 @@
+# Introduction
+
+<p align="justify">
+Ravencoin is different from Tron and Tezos, which I have examined so far. With the latter, access to the blockchain is possible without further problems. In order to access the blockchain of Ravencoin, the operation of a Ravencoin node is necessary. Installation is simple and operation is possible on a standard personal computer. However, some time is needed to synchronise the complete blockchain. In the meantime, 4 years of data have to be synchronised. With the help of raven-qt, the progress can be easily displayed. 
+</p>
+
+<p align="justify">
+While I am currently testing the RPC interface, I am installing a Ravencoin mining pool in parallel to test if and how mining is possible on a personal computer via the Ravencoin node. The installation and setup has already worked so far. The node, mining pool and miner still need to be made to work together.
+</p>
+
 # Programming Requirements
 
 <p align="justify">Following PyPi library is used for the Python scripts:</p>
