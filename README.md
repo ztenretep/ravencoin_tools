@@ -1,7 +1,7 @@
 # Introduction
 
 <p align="justify">
-Ravencoin is different in comparison to Tron and Tezos, which I have examined so far. With the latter two, direct access to the blockchain is possible using an API. In order to access the blockchain of Ravencoin, the operation of a Ravencoin node is necessary. The installation is quite simple and the operation of the node is possible on a standard personal computer. However, some time is needed to synchronise the complete blockchain with the node. With the help of raven-qt, the progress can be easily monitored.
+Ravencoin is different in comparison to Tron and Tezos, which I have examined so far. With the latter two, direct access to the blockchain is possible using an API. In order to access the blockchain of Ravencoin, the operation of a Ravencoin node is necessary. The installation is quite simple and the operation of the node is possible on a standard personal computer. However, some time is needed to synchronise the complete blockchain with the node. With the help of raven-qt, the progress can be easily monitored. The progress depends on the internet connection and the hardware used. Once the node is synchronised, then it can be turned on and off as needed to use the API.
 </p>
 
 <p align="justify">
