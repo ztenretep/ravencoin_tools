@@ -32,9 +32,23 @@
 
 <code>./raven-qt -server</code> 
 
+Finally, set symbolic links:
+
+<p align="justify">Finally, set symbolic links:</p>
+
+<code>
+ln -s ~/rvn_node/linux/raven-4.3.2.1/bin/ravend /usr/bin/ravend
+ln -s ~/rvn_node/linux/raven-4.3.2.1/bin/raven-qt /usr/bin/raven-qt
+</code>  
+
+<p align="justify">Up to this, you do not have to take care about the content of <code>raven.conf</>.</p>
+
 # References
 
+
 https://ravencoin.org/
+
+https://raven.wiki/
 
 https://www.ravennodes.com/
 
