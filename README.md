@@ -9,7 +9,7 @@ The installation of a Ravencoin node is quite simple and the operation of the no
 </p> 
 
 <p align="justify">
-For now, I'll end my excursion into the world of the Ravencoin Blockchain. I have understood the basic principles. I wonder a bit about the fact that there is no benefit to operating a node per se. In my eyes, it would be logical if there were a reward for operating the node. Operation costs time for maintenance, it consumes electricity and it requires bandwidth of the internet connection. In return for the above, you get nothing back.
+For now, I will end my excursion into the world of the Ravencoin Blockchain. I have understood the basic principles. I wonder a bit about the fact that there is no benefit to operating a node per se. In my eyes, it would be logical if there were a reward for operating the node. Operation costs time for maintenance, it consumes electricity and it requires bandwidth of the internet connection. In return for the above, you get nothing back.
 </p>
 
 # Ravencoin Node Operation
