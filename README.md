@@ -1,11 +1,26 @@
 # Introduction
 
 <p align="justify">
-Ravencoin is different in comparison to Tron and Tezos, which I have examined so far. With the latter two, direct access to the blockchain is possible using an API. In order to access the blockchain of Ravencoin, the operation of a Ravencoin node is necessary. The installation is quite simple and the operation of the node is possible on a standard personal computer. However, some time is needed to synchronise the complete blockchain with the node. With the help of raven-qt, the progress can be easily monitored. The progress depends on the internet connection and the hardware used. Once the node is synchronised, then it can be turned on and off as needed to use the API.
+Ravencoin is different in comparison to Tron and Tezos, which I have examined so far. With the latter two, direct access to the blockchain is possible using an API. In order to access the blockchain of Ravencoin, the operation of a Ravencoin node is necessary. 
 </p>
 
 <p align="justify">
-While I am currently testing the RPC interface, I am in the process of installing a Ravencoin mining pool to test if and how mining is possible on a PC via the Ravencoin node. The installation itself and the setup have worked so far. The node, the mining pool and the miner still need to be brought together.
+The installation of a Ravencoin node is quite simple and the operation of the node is possible on a standard personal computer. However, some time is needed to synchronise the complete blockchain with the node. With the help of raven-qt, the progress can be easily monitored. The progress depends on the network connection and the hardware used. Once the node is synchronised, then it can be turned on and off as needed to use the API.  
+</p> 
+
+<p align="justify">
+For now, I'll end my excursion into the world of the Ravencoin Blockchain. I have understood the basic principles. I wonder a bit about the fact that there is no benefit to operating a node per se. In my eyes, it would be logical if there were a reward for operating the node. Operation costs time for maintenance, it consumes electricity and it requires bandwidth of the internet connection. In return for the above, you get nothing back.
+</p>
+
+# Ravencoin Node Operation
+
+<p align="justify">
+As described below, a Ravencoin node can be set up on a standard personal computer. After synchronisation, the node can be queried via the RPC interface. There is no benefit to operating the node other than setting up a mining pool for solo mining and accessing the Ravencoin node itself.
+</p>
+  
+# Mining Pool Operation
+
+<p align="justify">The operation of a mining pool is possible on a standard personal computer. Interaction with a miner works as it should. As expected, however, solo mining with your own mining pool does not make sense. No block rewards are achieved in a reasonable time frame. 
 </p>
 
 # Programming Requirements
@@ -14,7 +29,7 @@ While I am currently testing the RPC interface, I am in the process of installin
 
 <code>python-ravencoinlib 0.2.2</code>
 
-# Set Up Ravencoin Node
+# Ravencoin Node Set Up 
 
 <p align="justify">Select a directory for the operation of the node. Open this directory in a terminal window.</p>
 
@@ -62,5 +77,9 @@ https://raven.wiki/
 https://www.ravennodes.com/
 
 # Donation
+
+<p align="justify">
+If you find my scripts helpful, and if you would like to see more examples, donate a cup of coffee in Ravencoins.
+</p>
 
 <div class="snippet-clipboard-content position-relative overflow-auto" data-snippet-clipboard-copy-content="RNi9cTpobtVErv8H9uijhcafcT4VgEaDUL"><pre><code>RNi9cTpobtVErv8H9uijhcafcT4VgEaDUL</code></pre></div>
